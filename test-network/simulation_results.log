@@ -1,0 +1,3212 @@
+
+🔹 👤 Registering user01...
+[34m2025-04-25 14:34:42.989 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user02...
+[34m2025-04-25 14:34:43.065 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user03...
+[34m2025-04-25 14:34:43.134 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user04...
+[34m2025-04-25 14:34:43.300 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user05...
+[34m2025-04-25 14:34:43.369 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user06...
+[34m2025-04-25 14:34:43.435 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user07...
+[34m2025-04-25 14:34:43.499 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user08...
+[34m2025-04-25 14:34:43.574 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user09...
+[34m2025-04-25 14:34:43.656 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user10...
+[34m2025-04-25 14:34:43.729 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user11...
+[34m2025-04-25 14:34:43.984 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user12...
+[34m2025-04-25 14:34:44.053 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user13...
+[34m2025-04-25 14:34:44.128 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user14...
+[34m2025-04-25 14:34:44.196 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user15...
+[34m2025-04-25 14:34:44.263 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user16...
+[34m2025-04-25 14:34:44.332 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user17...
+[34m2025-04-25 14:34:44.403 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user18...
+[34m2025-04-25 14:34:44.473 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user19...
+[34m2025-04-25 14:34:44.542 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user20...
+[34m2025-04-25 14:34:44.611 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user21...
+[34m2025-04-25 14:34:44.690 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user22...
+[34m2025-04-25 14:34:44.759 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user23...
+[34m2025-04-25 14:34:44.912 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user24...
+[34m2025-04-25 14:34:44.984 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user25...
+[34m2025-04-25 14:34:45.059 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user26...
+[34m2025-04-25 14:34:45.130 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user27...
+[34m2025-04-25 14:34:45.205 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user28...
+[34m2025-04-25 14:34:45.281 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user29...
+[34m2025-04-25 14:34:45.361 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user30...
+[34m2025-04-25 14:34:45.442 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user31...
+[34m2025-04-25 14:34:45.513 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user32...
+[34m2025-04-25 14:34:45.582 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user33...
+[34m2025-04-25 14:34:45.654 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user34...
+[34m2025-04-25 14:34:45.729 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user35...
+[34m2025-04-25 14:34:45.809 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user36...
+[34m2025-04-25 14:34:45.890 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user37...
+[34m2025-04-25 14:34:45.972 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user38...
+[34m2025-04-25 14:34:46.055 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user39...
+[34m2025-04-25 14:34:46.139 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user40...
+[34m2025-04-25 14:34:46.220 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user41...
+[34m2025-04-25 14:34:46.292 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user42...
+[34m2025-04-25 14:34:46.364 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user43...
+[34m2025-04-25 14:34:46.435 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user44...
+[34m2025-04-25 14:34:46.510 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user45...
+[34m2025-04-25 14:34:46.584 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user46...
+[34m2025-04-25 14:34:46.661 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user47...
+[34m2025-04-25 14:34:46.738 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user48...
+[34m2025-04-25 14:34:46.818 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user49...
+[34m2025-04-25 14:34:46.896 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 👤 Registering user50...
+[34m2025-04-25 14:34:46.973 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN4701...
+[34m2025-04-25 14:34:47.045 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN4921...
+[34m2025-04-25 14:34:47.118 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5288...
+[34m2025-04-25 14:34:47.194 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5316...
+[34m2025-04-25 14:34:47.263 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5365...
+[34m2025-04-25 14:34:47.333 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN4987...
+[34m2025-04-25 14:34:47.403 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN4944...
+[34m2025-04-25 14:34:47.477 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5442...
+[34m2025-04-25 14:34:47.556 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN4456...
+[34m2025-04-25 14:34:47.636 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5058...
+[34m2025-04-25 14:34:47.716 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN4883...
+[34m2025-04-25 14:34:47.788 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN4519...
+[34m2025-04-25 14:34:47.858 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5368...
+[34m2025-04-25 14:34:47.925 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5004...
+[34m2025-04-25 14:34:48.002 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5291...
+[34m2025-04-25 14:34:48.073 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN006412...
+[34m2025-04-25 14:34:48.150 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5404...
+[34m2025-04-25 14:34:48.219 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN4566...
+[34m2025-04-25 14:34:48.294 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5423...
+[34m2025-04-25 14:34:48.372 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 📜 Creating policy for MIN5512...
+[34m2025-04-25 14:34:48.453 AEST 0001 INFO[0m [chaincodeCmd] [34;1mchaincodeInvokeOrQuery[0m -> Chaincode invoke successful. result: status:200 
+
+🔹 🔎 Evaluating access for user01 to MIN4701
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:48Z}
+
+🔹 🔎 Evaluating access for user01 to MIN4921
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:48Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5288
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:48Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5316
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:48Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5365
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:48Z}
+
+🔹 🔎 Evaluating access for user01 to MIN4987
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:48Z}
+
+🔹 🔎 Evaluating access for user01 to MIN4944
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:48Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5442
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:48Z}
+
+🔹 🔎 Evaluating access for user01 to MIN4456
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5058
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN4883
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN4519
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5368
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5004
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5291
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN006412
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5404
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN4566
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN4566 Status:Denied LatencyMs:7 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5423
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user01 to MIN5512
+AccessLog: {DocType:accessLog Requester:user01 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user02 to MIN4701
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:49Z}
+
+🔹 🔎 Evaluating access for user02 to MIN4921
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5288
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5316
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5365
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5365 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN4987
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN4944
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN4944 Status:Granted LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5442
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN4456
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5058
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN4883
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN4519
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5368
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5004
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5291
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN006412
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5404
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:50Z}
+
+🔹 🔎 Evaluating access for user02 to MIN4566
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN4566 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5423
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user02 to MIN5512
+AccessLog: {DocType:accessLog Requester:user02 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN4701
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN4701 Status:Granted LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN4921
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5288
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5316
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5365
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN4987
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN4987 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN4944
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5442
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN4456
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5058
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN4883
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN4519
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:51Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5368
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5004
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5291
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user03 to MIN006412
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5404
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user03 to MIN4566
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5423
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user03 to MIN5512
+AccessLog: {DocType:accessLog Requester:user03 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN4701
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN4921
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5288
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5316
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5365
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN4987
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN4944
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5442
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:52Z}
+
+🔹 🔎 Evaluating access for user04 to MIN4456
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5058
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN4883
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN4519
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5368
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5004
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5291
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN006412
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5404
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5404 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN4566
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5423
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5423 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user04 to MIN5512
+AccessLog: {DocType:accessLog Requester:user04 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user05 to MIN4701
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user05 to MIN4921
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5288
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:53Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5316
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5365
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN4987
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN4944
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5442
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN4456
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5058
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5058 Status:Granted LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN4883
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN4519
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5368
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5004
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5291
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN006412
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5404
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN4566
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5423
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:54Z}
+
+🔹 🔎 Evaluating access for user05 to MIN5512
+AccessLog: {DocType:accessLog Requester:user05 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN4701
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN4921
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5288
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5316
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5365
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN4987
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN4944
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5442
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN4456
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5058
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN4883
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN4519
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5368
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5004
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5291
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5291 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:55Z}
+
+🔹 🔎 Evaluating access for user06 to MIN006412
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5404
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user06 to MIN4566
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5423
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user06 to MIN5512
+AccessLog: {DocType:accessLog Requester:user06 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN4701
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN4921
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5288
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5316
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5365
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN4987
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN4987 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN4944
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5442
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN4456
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN4456 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5058
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:56Z}
+
+🔹 🔎 Evaluating access for user07 to MIN4883
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN4519
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN4519 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5368
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5004
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5291
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN006412
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5404
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN4566
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5423
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user07 to MIN5512
+AccessLog: {DocType:accessLog Requester:user07 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user08 to MIN4701
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user08 to MIN4921
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5288
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5316
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5365
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:57Z}
+
+🔹 🔎 Evaluating access for user08 to MIN4987
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN4944
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5442
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN4456
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5058
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN4883
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN4519
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5368
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5004
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5291
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5291 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN006412
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5404
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN4566
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5423
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user08 to MIN5512
+AccessLog: {DocType:accessLog Requester:user08 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user09 to MIN4701
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:58Z}
+
+🔹 🔎 Evaluating access for user09 to MIN4921
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5288
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5316
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5365
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN4987
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN4944
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5442
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN4456
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5058
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN4883
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN4519
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN4519 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5368
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5004
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5291
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN006412
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:34:59Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5404
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user09 to MIN4566
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5423
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user09 to MIN5512
+AccessLog: {DocType:accessLog Requester:user09 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN4701
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN4921
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5288
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5316
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5365
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN4987
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN4944
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN4944 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5442
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN4456
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5058
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN4883
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN4519
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:00Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5368
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5004
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5004 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5291
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user10 to MIN006412
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN006412 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5404
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user10 to MIN4566
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5423
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user10 to MIN5512
+AccessLog: {DocType:accessLog Requester:user10 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user11 to MIN4701
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user11 to MIN4921
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5288
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5316
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5365
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user11 to MIN4987
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user11 to MIN4944
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:01Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5442
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN4456
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5058
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN4883
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN4519
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5368
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5004
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5291
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN006412
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5404
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN4566
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5423
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user11 to MIN5512
+AccessLog: {DocType:accessLog Requester:user11 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user12 to MIN4701
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user12 to MIN4921
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:02Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5288
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5316
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5365
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN4987
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN4944
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5442
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN4456
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5058
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN4883
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN4519
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5368
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5004
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5291
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN006412
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5404
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:03Z}
+
+🔹 🔎 Evaluating access for user12 to MIN4566
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5423
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user12 to MIN5512
+AccessLog: {DocType:accessLog Requester:user12 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN4701
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN4921
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5288
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5316
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5365
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN4987
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN4944
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5442
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN4456
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5058
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN4883
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN4519
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5368
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:04Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5004
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5291
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user13 to MIN006412
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5404
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user13 to MIN4566
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5423
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user13 to MIN5512
+AccessLog: {DocType:accessLog Requester:user13 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN4701
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN4921
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5288
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5316
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5365
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN4987
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN4944
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5442
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:05Z}
+
+🔹 🔎 Evaluating access for user14 to MIN4456
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5058
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN4883
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN4519
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5368
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5004
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5004 Status:Denied LatencyMs:2 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5291
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5291 Status:Granted LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN006412
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5404
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN4566
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5423
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user14 to MIN5512
+AccessLog: {DocType:accessLog Requester:user14 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user15 to MIN4701
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user15 to MIN4921
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5288
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:06Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5316
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5365
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN4987
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN4944
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5442
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN4456
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5058
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN4883
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN4519
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5368
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5004
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5291
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN006412
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5404
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN4566
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:07Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5423
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user15 to MIN5512
+AccessLog: {DocType:accessLog Requester:user15 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN4701
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN4921
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5288
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5316
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5365
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5365 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN4987
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN4944
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN4944 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5442
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN4456
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5058
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN4883
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN4519
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5368
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:08Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5004
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5291
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user16 to MIN006412
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5404
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user16 to MIN4566
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5423
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user16 to MIN5512
+AccessLog: {DocType:accessLog Requester:user16 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN4701
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN4921
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5288
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5316
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5365
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN4987
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN4944
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5442
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN4456
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:09Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5058
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN4883
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN4519
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5368
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5004
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5291
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN006412
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5404
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN4566
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5423
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user17 to MIN5512
+AccessLog: {DocType:accessLog Requester:user17 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user18 to MIN4701
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user18 to MIN4921
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5288
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5316
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:10Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5365
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN4987
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN4944
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5442
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN4456
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5058
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN4883
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN4519
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5368
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5004
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5291
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN006412
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5404
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN4566
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5423
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user18 to MIN5512
+AccessLog: {DocType:accessLog Requester:user18 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:11Z}
+
+🔹 🔎 Evaluating access for user19 to MIN4701
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN4921
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5288
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5288 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5316
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5365
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN4987
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN4944
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5442
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN4456
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5058
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN4883
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN4883 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN4519
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5368
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5004
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5291
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:12Z}
+
+🔹 🔎 Evaluating access for user19 to MIN006412
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5404
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user19 to MIN4566
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5423
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user19 to MIN5512
+AccessLog: {DocType:accessLog Requester:user19 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN4701
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN4701 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN4921
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5288
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5316
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5365
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN4987
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN4944
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5442
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN4456
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5058
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN4883
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:13Z}
+
+🔹 🔎 Evaluating access for user20 to MIN4519
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5368
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5368 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5004
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5291
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user20 to MIN006412
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5404
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user20 to MIN4566
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5423
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user20 to MIN5512
+AccessLog: {DocType:accessLog Requester:user20 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user21 to MIN4701
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN4701 Status:Denied LatencyMs:5 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user21 to MIN4921
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5288
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5316
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5365
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user21 to MIN4987
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:14Z}
+
+🔹 🔎 Evaluating access for user21 to MIN4944
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5442
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN4456
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5058
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN4883
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN4519
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN4519 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5368
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5004
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5291
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN006412
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5404
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN4566
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5423
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user21 to MIN5512
+AccessLog: {DocType:accessLog Requester:user21 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user22 to MIN4701
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user22 to MIN4921
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:15Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5288
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5316
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5365
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN4987
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN4944
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5442
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN4456
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5058
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN4883
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN4519
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5368
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5004
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5291
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN006412
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5404
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:16Z}
+
+🔹 🔎 Evaluating access for user22 to MIN4566
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5423
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user22 to MIN5512
+AccessLog: {DocType:accessLog Requester:user22 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN4701
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN4701 Status:Denied LatencyMs:2 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN4921
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5288
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5316
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5365
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN4987
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN4944
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5442
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN4456
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5058
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN4883
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN4519
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5368
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:17Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5004
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5291
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user23 to MIN006412
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN006412 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5404
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user23 to MIN4566
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5423
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user23 to MIN5512
+AccessLog: {DocType:accessLog Requester:user23 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN4701
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN4921
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5288
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5316
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5365
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN4987
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN4944
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5442
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:18Z}
+
+🔹 🔎 Evaluating access for user24 to MIN4456
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5058
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN4883
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN4519
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5368
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5004
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5291
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN006412
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5404
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN4566
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5423
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user24 to MIN5512
+AccessLog: {DocType:accessLog Requester:user24 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user25 to MIN4701
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN4701 Status:Denied LatencyMs:2 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user25 to MIN4921
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5288
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:19Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5316
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5365
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN4987
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN4944
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN4944 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5442
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN4456
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5058
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN4883
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN4519
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5368
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5004
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5291
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN006412
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5404
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN4566
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN4566 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5423
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:20Z}
+
+🔹 🔎 Evaluating access for user25 to MIN5512
+AccessLog: {DocType:accessLog Requester:user25 Resource:MIN5512 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN4701
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN4921
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5288
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5316
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5365
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN4987
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN4944
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5442
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN4456
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5058
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN4883
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN4519
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5368
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5004
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:21Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5291
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user26 to MIN006412
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5404
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user26 to MIN4566
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5423
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user26 to MIN5512
+AccessLog: {DocType:accessLog Requester:user26 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN4701
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN4921
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5288
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5316
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5365
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5365 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN4987
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN4944
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5442
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN4456
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN4456 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:22Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5058
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN4883
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN4519
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5368
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5004
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5291
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN006412
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5404
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN4566
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5423
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user27 to MIN5512
+AccessLog: {DocType:accessLog Requester:user27 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user28 to MIN4701
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN4701 Status:Denied LatencyMs:3 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user28 to MIN4921
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5288
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5316
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:23Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5365
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN4987
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN4944
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5442
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN4456
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5058
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN4883
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN4519
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5368
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5004
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5291
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN006412
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5404
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN4566
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:24Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5423
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user28 to MIN5512
+AccessLog: {DocType:accessLog Requester:user28 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN4701
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN4701 Status:Denied LatencyMs:3 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN4921
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5288
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5316
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5365
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN4987
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN4944
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5442
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN4456
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5058
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN4883
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN4519
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5368
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5004
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:25Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5291
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user29 to MIN006412
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN006412 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5404
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user29 to MIN4566
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5423
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user29 to MIN5512
+AccessLog: {DocType:accessLog Requester:user29 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN4701
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN4701 Status:Granted LatencyMs:3 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN4921
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5288
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5316
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5365
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN4987
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN4944
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5442
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN4456
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:26Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5058
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN4883
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN4519
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5368
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5004
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5291
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN006412
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5404
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN4566
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5423
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user30 to MIN5512
+AccessLog: {DocType:accessLog Requester:user30 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user31 to MIN4701
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user31 to MIN4921
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5288
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5316
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5365
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:27Z}
+
+🔹 🔎 Evaluating access for user31 to MIN4987
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN4944
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5442
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN4456
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5058
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN4883
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN4519
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5368
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5004
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5291
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN006412
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5404
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN4566
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5423
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user31 to MIN5512
+AccessLog: {DocType:accessLog Requester:user31 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:28Z}
+
+🔹 🔎 Evaluating access for user32 to MIN4701
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN4921
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN4921 Status:Granted LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5288
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5316
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5365
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN4987
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN4944
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5442
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN4456
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5058
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5058 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN4883
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN4519
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5368
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5004
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5291
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:29Z}
+
+🔹 🔎 Evaluating access for user32 to MIN006412
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5404
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user32 to MIN4566
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5423
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user32 to MIN5512
+AccessLog: {DocType:accessLog Requester:user32 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN4701
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN4701 Status:Denied LatencyMs:3 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN4921
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5288
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5316
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5365
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN4987
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN4944
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5442
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN4456
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5058
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN4883
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:30Z}
+
+🔹 🔎 Evaluating access for user33 to MIN4519
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5368
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5004
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5291
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user33 to MIN006412
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5404
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user33 to MIN4566
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5423
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user33 to MIN5512
+AccessLog: {DocType:accessLog Requester:user33 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user34 to MIN4701
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN4701 Status:Denied LatencyMs:3 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user34 to MIN4921
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5288
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5316
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5365
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user34 to MIN4987
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:31Z}
+
+🔹 🔎 Evaluating access for user34 to MIN4944
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN4944 Status:Granted LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5442
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN4456
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5058
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN4883
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN4519
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5368
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5004
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5291
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN006412
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5404
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN4566
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5423
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user34 to MIN5512
+AccessLog: {DocType:accessLog Requester:user34 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user35 to MIN4701
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user35 to MIN4921
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:32Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5288
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5316
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5365
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN4987
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN4944
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5442
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN4456
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5058
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN4883
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN4519
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5368
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5004
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5291
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN006412
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5404
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:33Z}
+
+🔹 🔎 Evaluating access for user35 to MIN4566
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5423
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user35 to MIN5512
+AccessLog: {DocType:accessLog Requester:user35 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN4701
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN4701 Status:Denied LatencyMs:6 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN4921
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5288
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5316
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5365
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN4987
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN4944
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5442
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN4456
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5058
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN4883
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN4519
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5368
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:34Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5004
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5291
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user36 to MIN006412
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5404
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user36 to MIN4566
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5423
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user36 to MIN5512
+AccessLog: {DocType:accessLog Requester:user36 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN4701
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN4921
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5288
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5316
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5365
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN4987
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN4944
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5442
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:35Z}
+
+🔹 🔎 Evaluating access for user37 to MIN4456
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5058
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN4883
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN4519
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5368
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5004
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5291
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN006412
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5404
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN4566
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5423
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user37 to MIN5512
+AccessLog: {DocType:accessLog Requester:user37 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user38 to MIN4701
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user38 to MIN4921
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5288
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5316
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:36Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5365
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN4987
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN4944
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5442
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN4456
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5058
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN4883
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN4519
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5368
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5004
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5291
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN006412
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5404
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN4566
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5423
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:37Z}
+
+🔹 🔎 Evaluating access for user38 to MIN5512
+AccessLog: {DocType:accessLog Requester:user38 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN4701
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN4701 Status:Denied LatencyMs:3 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN4921
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5288
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5316
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5365
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN4987
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN4944
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5442
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN4456
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5058
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN4883
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN4519
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5368
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5004
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:38Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5291
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user39 to MIN006412
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5404
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user39 to MIN4566
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5423
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user39 to MIN5512
+AccessLog: {DocType:accessLog Requester:user39 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN4701
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN4701 Status:Denied LatencyMs:3 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN4921
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5288
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5316
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5365
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN4987
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN4944
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5442
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN4456
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5058
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:39Z}
+
+🔹 🔎 Evaluating access for user40 to MIN4883
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN4519
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5368
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5004
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5291
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN006412
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5404
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN4566
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5423
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user40 to MIN5512
+AccessLog: {DocType:accessLog Requester:user40 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user41 to MIN4701
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user41 to MIN4921
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5288
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5316
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5316 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5365
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:40Z}
+
+🔹 🔎 Evaluating access for user41 to MIN4987
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN4944
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5442
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN4456
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5058
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN4883
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN4519
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5368
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5004
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5291
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN006412
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5404
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN4566
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5423
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user41 to MIN5512
+AccessLog: {DocType:accessLog Requester:user41 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:41Z}
+
+🔹 🔎 Evaluating access for user42 to MIN4701
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN4921
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5288
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5288 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5316
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5365
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN4987
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN4944
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN4944 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5442
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN4456
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5058
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN4883
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN4519
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5368
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5004
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5291
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN006412
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:42Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5404
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user42 to MIN4566
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5423
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user42 to MIN5512
+AccessLog: {DocType:accessLog Requester:user42 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN4701
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN4921
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5288
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5316
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5365
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN4987
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN4944
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5442
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN4456
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5058
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN4883
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:43Z}
+
+🔹 🔎 Evaluating access for user43 to MIN4519
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5368
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5004
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5291
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user43 to MIN006412
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5404
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user43 to MIN4566
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5423
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user43 to MIN5512
+AccessLog: {DocType:accessLog Requester:user43 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user44 to MIN4701
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user44 to MIN4921
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5288
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5316
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5365
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user44 to MIN4987
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user44 to MIN4944
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:44Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5442
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN4456
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5058
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN4883
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN4519
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5368
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5004
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5291
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN006412
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5404
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN4566
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN4566 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5423
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user44 to MIN5512
+AccessLog: {DocType:accessLog Requester:user44 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user45 to MIN4701
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user45 to MIN4921
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:45Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5288
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5316
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5365
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN4987
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN4944
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5442
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN4456
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5058
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN4883
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN4519
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5368
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5004
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5291
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN006412
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN006412 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5404
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:46Z}
+
+🔹 🔎 Evaluating access for user45 to MIN4566
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5423
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user45 to MIN5512
+AccessLog: {DocType:accessLog Requester:user45 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN4701
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN4701 Status:Denied LatencyMs:2 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN4921
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5288
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5316
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5365
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN4987
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN4944
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5442
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN4456
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5058
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN4883
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN4519
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5368
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:47Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5004
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5291
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user46 to MIN006412
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5404
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user46 to MIN4566
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5423
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user46 to MIN5512
+AccessLog: {DocType:accessLog Requester:user46 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN4701
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN4701 Status:Denied LatencyMs:3 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN4921
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN4921 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5288
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5316
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5365
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN4987
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN4944
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5442
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:48Z}
+
+🔹 🔎 Evaluating access for user47 to MIN4456
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5058
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN4883
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN4883 Status:Denied LatencyMs:2 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN4519
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5368
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5004
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5004 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5291
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN006412
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5404
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5404 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN4566
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5423
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user47 to MIN5512
+AccessLog: {DocType:accessLog Requester:user47 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user48 to MIN4701
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN4701 Status:Denied LatencyMs:2 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user48 to MIN4921
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5288
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:49Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5316
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5365
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN4987
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN4944
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5442
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN4456
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5058
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN4883
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN4519
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5368
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5004
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5291
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN006412
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5404
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN4566
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:50Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5423
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user48 to MIN5512
+AccessLog: {DocType:accessLog Requester:user48 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN4701
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN4701 Status:Denied LatencyMs:4 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN4921
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5288
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5316
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5365
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN4987
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN4944
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN4944 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5442
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN4456
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN4456 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5058
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN4883
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN4519
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5368
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:51Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5004
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5291
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user49 to MIN006412
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5404
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user49 to MIN4566
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5423
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user49 to MIN5512
+AccessLog: {DocType:accessLog Requester:user49 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN4701
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN4701 Status:Denied LatencyMs:6 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN4921
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN4921 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5288
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5288 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5316
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5316 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5365
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5365 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN4987
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN4987 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN4944
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN4944 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5442
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5442 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN4456
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN4456 Status:Denied LatencyMs:1 Timestamp:2025-04-25T04:35:52Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5058
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5058 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN4883
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN4883 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN4519
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN4519 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5368
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5368 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5004
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5004 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5291
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5291 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN006412
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN006412 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5404
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5404 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN4566
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN4566 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5423
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5423 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+🔹 🔎 Evaluating access for user50 to MIN5512
+AccessLog: {DocType:accessLog Requester:user50 Resource:MIN5512 Status:Denied LatencyMs:0 Timestamp:2025-04-25T04:35:53Z}
+
+✅ Simulation completed on: 2025-04-25T14:35:53.689060

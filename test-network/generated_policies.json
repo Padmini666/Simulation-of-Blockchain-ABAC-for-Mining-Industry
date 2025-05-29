@@ -1,0 +1,103 @@
+{
+  "MIN4701": [
+    "CertifiedMiner",
+    "Region=Moorabool"
+  ],
+  "MIN4921": [
+    "CertifiedMiner",
+    "Region=EastGippsland",
+    "GoldSpecialist"
+  ],
+  "MIN5288": [
+    "CertifiedMiner",
+    "Region=Yarriambiack",
+    "GypsumExpert"
+  ],
+  "MIN5316": [
+    "CertifiedMiner",
+    "Region=Hindmarsh",
+    "GypsumExpert"
+  ],
+  "MIN5365": [
+    "CertifiedMiner",
+    "Region=Pyrenees",
+    "KaolinTechnician"
+  ],
+  "MIN4987": [
+    "CertifiedMiner",
+    "Region=Pyrenees",
+    "GoldSpecialist"
+  ],
+  "MIN4944": [
+    "CertifiedMiner",
+    "Region=Alpine",
+    "GoldSpecialist"
+  ],
+  "MIN5442": [
+    "CertifiedMiner",
+    "Region=Hindmarsh",
+    "GypsumExpert"
+  ],
+  "MIN4456": [
+    "CertifiedMiner",
+    "Region=GreaterBendigo",
+    "GoldSpecialist"
+  ],
+  "MIN5058": [
+    "CertifiedMiner",
+    "Region=BawBaw",
+    "GoldSpecialist"
+  ],
+  "MIN4883": [
+    "CertifiedMiner",
+    "Region=Loddon",
+    "GypsumExpert"
+  ],
+  "MIN4519": [
+    "CertifiedMiner",
+    "Region=Hindmarsh",
+    "GypsumExpert"
+  ],
+  "MIN5368": [
+    "CertifiedMiner",
+    "Region=MountAlexander",
+    "GoldSpecialist"
+  ],
+  "MIN5004": [
+    "CertifiedMiner",
+    "Region=Latrobe",
+    "KaolinTechnician",
+    "CoalHandler"
+  ],
+  "MIN5291": [
+    "CertifiedMiner",
+    "Region=SwanHill",
+    "GypsumExpert"
+  ],
+  "MIN006412": [
+    "CertifiedMiner",
+    "Region=CentralGoldfields",
+    "GoldSpecialist"
+  ],
+  "MIN5404": [
+    "CertifiedMiner",
+    "Region=GreaterBendigo",
+    "GoldSpecialist"
+  ],
+  "MIN4566": [
+    "CertifiedMiner",
+    "Region=Hindmarsh",
+    "GypsumExpert"
+  ],
+  "MIN5423": [
+    "CertifiedMiner",
+    "Region=GreaterBendigo",
+    "KaolinTechnician"
+  ],
+  "MIN5512": [
+    "CertifiedMiner",
+    "Region=GreaterBendigo",
+    "PreciousMetalsExpert",
+    "GoldSpecialist"
+  ]
+}

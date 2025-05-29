@@ -1,0 +1,402 @@
+[
+  {
+    "user_id": "user01",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=EastGippsland",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user02",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=MountAlexander",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user03",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=CentralGoldfields",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user04",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=EastGippsland",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user05",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=EastGippsland",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user06",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Loddon",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user07",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Pyrenees",
+      "GoldSpecialist"
+    ]
+  },
+  {
+    "user_id": "user08",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=GreaterBendigo",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user09",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Alpine",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user10",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=MountAlexander",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user11",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=EastGippsland",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user12",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Pyrenees",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user13",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=BawBaw",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user14",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Alpine",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user15",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Latrobe",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user16",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=SwanHill",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user17",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=GreaterBendigo",
+      "GoldSpecialist"
+    ]
+  },
+  {
+    "user_id": "user18",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Pyrenees",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user19",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=CentralGoldfields",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user20",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=EastGippsland",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user21",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=SwanHill",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user22",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=EastGippsland",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user23",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Moorabool",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user24",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=GreaterBendigo",
+      "GoldSpecialist"
+    ]
+  },
+  {
+    "user_id": "user25",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=CentralGoldfields",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user26",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Alpine",
+      "GoldSpecialist"
+    ]
+  },
+  {
+    "user_id": "user27",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Pyrenees",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user28",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Pyrenees",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user29",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=CentralGoldfields",
+      "GoldSpecialist"
+    ]
+  },
+  {
+    "user_id": "user30",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Moorabool",
+      "GoldSpecialist"
+    ]
+  },
+  {
+    "user_id": "user31",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=MountAlexander",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user32",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Loddon",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user33",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=EastGippsland",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user34",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=SwanHill",
+      "GoldSpecialist"
+    ]
+  },
+  {
+    "user_id": "user35",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Loddon",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user36",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=GreaterBendigo",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user37",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=SwanHill",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user38",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Alpine",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user39",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Yarriambiack",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user40",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Latrobe",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user41",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=BawBaw",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user42",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=MountAlexander",
+      "KaolinTechnician"
+    ]
+  },
+  {
+    "user_id": "user43",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Loddon",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user44",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Latrobe",
+      "GoldSpecialist"
+    ]
+  },
+  {
+    "user_id": "user45",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Alpine",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user46",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=MountAlexander",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user47",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Latrobe",
+      "PreciousMetalsExpert"
+    ]
+  },
+  {
+    "user_id": "user48",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=CentralGoldfields",
+      "GypsumExpert"
+    ]
+  },
+  {
+    "user_id": "user49",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Pyrenees",
+      "CoalHandler"
+    ]
+  },
+  {
+    "user_id": "user50",
+    "attributes": [
+      "CertifiedMiner",
+      "Region=Yarriambiack",
+      "CoalHandler"
+    ]
+  }
+]

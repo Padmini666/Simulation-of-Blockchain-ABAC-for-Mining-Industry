@@ -1,0 +1,222 @@
+[
+  {
+    "TNO":"MIN4701",
+    "OWN_NAME":"Maddingley Brown Coal Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":231.6422475905,
+    "LGA_DESC":"Moorabool",
+    "MIN_DESC":"Black Coal;Brown Coal",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1993\/09\/28"
+  },
+  {
+    "TNO":"MIN4921",
+    "OWN_NAME":"Mt Wills Gold Mines Pty Limited",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":239.6958467615,
+    "LGA_DESC":"East Gippsland",
+    "MIN_DESC":"Gold",
+    "LEGSDATE":"1990\/01\/18",
+    "GRANT1_DT":"1990\/01\/18"
+  },
+  {
+    "TNO":"MIN5288",
+    "OWN_NAME":"Timothy G Conway",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":5.0086092719,
+    "LGA_DESC":"Yarriambiack",
+    "MIN_DESC":"Gypsum",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"2002\/11\/01"
+  },
+  {
+    "TNO":"MIN5316",
+    "OWN_NAME":"C & P Investments Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":73.27473009,
+    "LGA_DESC":"Hindmarsh",
+    "MIN_DESC":"Gypsum",
+    "LEGSDATE":"2001\/03\/16",
+    "GRANT1_DT":"2001\/03\/16"
+  },
+  {
+    "TNO":"MIN5365",
+    "OWN_NAME":"Kaolin Australia Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":231.3954965755,
+    "LGA_DESC":"Pyrenees",
+    "MIN_DESC":"Kaolin",
+    "LEGSDATE":"2002\/06\/13",
+    "GRANT1_DT":"2002\/06\/13"
+  },
+  {
+    "TNO":"MIN4987",
+    "OWN_NAME":"Jeremy Wallman",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":5.0575857498,
+    "LGA_DESC":"Pyrenees",
+    "MIN_DESC":"Gold",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1997\/04\/18"
+  },
+  {
+    "TNO":"MIN4944",
+    "OWN_NAME":"John Kinsmore",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":5.075946789,
+    "LGA_DESC":"Alpine",
+    "MIN_DESC":"Gold",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1985\/07\/22"
+  },
+  {
+    "TNO":"MIN5442",
+    "OWN_NAME":"Paul Robert Lester",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":52.5591109697,
+    "LGA_DESC":"Hindmarsh",
+    "MIN_DESC":"Gypsum",
+    "LEGSDATE":"2005\/05\/24",
+    "GRANT1_DT":"2005\/05\/24"
+  },
+  {
+    "TNO":"MIN4456",
+    "OWN_NAME":"Fosterville Gold Mine Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":8.8434304253,
+    "LGA_DESC":"Greater Bendigo",
+    "MIN_DESC":"Gold",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1992\/02\/26"
+  },
+  {
+    "TNO":"MIN5058",
+    "OWN_NAME":"Michael Ljiljak",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":5.4985873778,
+    "LGA_DESC":"Baw Baw",
+    "MIN_DESC":"Gold",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1986\/01\/09"
+  },
+  {
+    "TNO":"MIN4883",
+    "OWN_NAME":"Elanvale Holdings Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":3.8825788162,
+    "LGA_DESC":"Loddon",
+    "MIN_DESC":"Gypsum",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1989\/11\/21"
+  },
+  {
+    "TNO":"MIN4519",
+    "OWN_NAME":"Gordon R Klinge",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":4.9877885295,
+    "LGA_DESC":"Hindmarsh",
+    "MIN_DESC":"Gypsum",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1992\/05\/22"
+  },
+  {
+    "TNO":"MIN5368",
+    "OWN_NAME":"Kenneth W Lakey",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":1.9096630575,
+    "LGA_DESC":"Mount Alexander",
+    "MIN_DESC":"Gold",
+    "LEGSDATE":"2005\/11\/03",
+    "GRANT1_DT":"2005\/11\/03"
+  },
+  {
+    "TNO":"MIN5004",
+    "OWN_NAME":"Hazelwood Power Corporation Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":3151.1924943565,
+    "LGA_DESC":"Latrobe",
+    "MIN_DESC":"Black Coal;Brown Coal;Coal Bed Methane;Kaolin",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1996\/09\/13"
+  },
+  {
+    "TNO":"MIN5291",
+    "OWN_NAME":"Northern Property Developers Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":74.3423039771,
+    "LGA_DESC":"Swan Hill",
+    "MIN_DESC":"Gypsum",
+    "LEGSDATE":"2002\/05\/16",
+    "GRANT1_DT":"2002\/05\/16"
+  },
+  {
+    "TNO":"MIN006412",
+    "OWN_NAME":"Sydney W Pearson",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":40.6314864228,
+    "LGA_DESC":"Central Goldfields",
+    "MIN_DESC":"Gold",
+    "LEGSDATE":"2017\/09\/28",
+    "GRANT1_DT":"2017\/09\/28"
+  },
+  {
+    "TNO":"MIN5404",
+    "OWN_NAME":"Fosterville Gold Mine Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":2854.3392567411,
+    "LGA_DESC":"Greater Bendigo",
+    "MIN_DESC":"Gold",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1990\/08\/24"
+  },
+  {
+    "TNO":"MIN4566",
+    "OWN_NAME":"Elaine A Starick",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":47.1786415068,
+    "LGA_DESC":"Hindmarsh",
+    "MIN_DESC":"Gypsum",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1982\/07\/07"
+  },
+  {
+    "TNO":"MIN5423",
+    "OWN_NAME":"Austral Bricks (Vic) Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":167.7848534376,
+    "LGA_DESC":"Greater Bendigo",
+    "MIN_DESC":"Kaolin",
+    "LEGSDATE":"0000\/00\/00",
+    "GRANT1_DT":"1989\/06\/14"
+  },
+  {
+    "TNO":"MIN5512",
+    "OWN_NAME":"Huntly Common Pty Ltd",
+    "STATUS":"CURRE",
+    "TYPE":"MIN",
+    "HECTARES":80.5749560206,
+    "LGA_DESC":"Greater Bendigo",
+    "MIN_DESC":"Gold;Platinum;Silver",
+    "LEGSDATE":"2017\/11\/29",
+    "GRANT1_DT":"2017\/11\/29"
+  }
+]
